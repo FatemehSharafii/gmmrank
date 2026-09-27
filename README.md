@@ -1,2 +1,2 @@
 # gmmrank
-A Python package for evaluating, ranking, and weighting Ground Motion Models (GMMs) using likelihood- and Bayesian-based performance metrics
+A Python package for ranking Ground Motion Models (GMMs) using log-likelihood and Deviance Information Criteria (DIC) methods.
